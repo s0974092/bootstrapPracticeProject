@@ -1,6 +1,6 @@
 .container.demo {
   background: #054bd1;
-  height: 100vh;
+  /* height: 100vh; */
   color: white;
   -webkit-font-smoothing: antialiased;
 }
@@ -12,6 +12,7 @@
 .container.demo .row {
   background: #021d51;
   border-bottom: 1px solid #000;
+  height: 30vh;
 }
 
 .container.demo .row > div > span {
