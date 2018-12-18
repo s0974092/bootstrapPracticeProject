@@ -27,3 +27,13 @@
 .component.demo {
   padding: 50px;
 }
+
+.carousel.demo .carousel-item {
+  height: 200px;
+}
+
+.carousel.demo .carousel-item img{
+  min-height: 200px;
+  max-height: 400px;
+  object-fit: cover;
+}
